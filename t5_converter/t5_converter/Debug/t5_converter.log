@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\miron\documents\github\third-semester\t5_converter\t5_converter\source.cpp(19): warning C4018: '<': signed/unsigned mismatch
+c:\users\miron\documents\github\third-semester\t5_converter\t5_converter\source.cpp(26): error C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: see declaration of 'itoa'
+c:\users\miron\documents\github\third-semester\t5_converter\t5_converter\source.cpp(34): error C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: see declaration of 'itoa'

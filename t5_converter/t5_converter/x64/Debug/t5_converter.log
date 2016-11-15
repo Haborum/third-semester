@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\miron\documents\github\third-semester\t5_converter\t5_converter\source.cpp(104): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\miron\documents\github\third-semester\t5_converter\t5_converter\source.cpp(104): error C2143: syntax error: missing ';' before ')'
+c:\users\miron\documents\github\third-semester\t5_converter\t5_converter\source.cpp(105): error C2143: syntax error: missing ';' before '{'
+c:\users\miron\documents\github\third-semester\t5_converter\t5_converter\source.cpp(105): error C2143: syntax error: missing ')' before '{'
